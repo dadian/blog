@@ -34,6 +34,7 @@
 		<sonar-maven3-plugin.version>3.5</sonar-maven3-plugin.version>
 		<maven-jar-plugin.version>2.4</maven-jar-plugin.version>
 		<maven-release-plugin.vesion>2.4</maven-release-plugin.vesion>
+		<maven-war-plugin.version>2.4</maven-war-plugin.version>
 	</properties>
 	<dependencies>
 		<dependency>

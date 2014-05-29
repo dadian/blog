@@ -19,7 +19,7 @@
 		<context:include-filter type="regex"
 			expression="com.service" />
 		<context:include-filter type="regex"
-			expression="com.controller" />
+			expression="com.web.controller" />
 	</context:component-scan>
 	
 	<!-- 配置文件注入 -->
